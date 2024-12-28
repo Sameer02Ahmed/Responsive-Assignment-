@@ -1,0 +1,40 @@
+@media only screen and (max-width: 600px) {
+    .para1{
+        background-color: brown;
+        font-size: 30px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .para2{
+        background-color: blue;
+        font-size: 25px;
+        text-align: left;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .para3{
+        background-color: blueviolet;
+        font-size: 35px;
+        text-align: justify;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .para4{
+        background-color: red;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .para1{
+        background-color: lightblue;
+        font-size: 30px;
+        text-align: center;
+    }
+    .para3{
+        background-color: green;
+        font-size: 35px;
+        text-align: justify;
+    }
+}
